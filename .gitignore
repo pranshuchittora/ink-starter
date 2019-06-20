@@ -1,0 +1,12 @@
+# Node Modules
+node_modules
+# TS compiled files
+dist
+src/**/*.js
+src/**/*.js.map
+# Package manager
+yarn-error.log
+
+# Lock files (either npm or yarn)
+# package-lock.json
+yarn.lock

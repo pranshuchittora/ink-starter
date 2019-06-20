@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "module": "umd",
+    "moduleResolution": "node",
+    "noUnusedLocals": true,
+    "noFallthroughCasesInSwitch": true,
+    "strict": true,
+    "sourceMap": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "jsx": "react",
+    "rootDir": "src",
+    "outDir": "dist"
+  },
+  "include": ["src/*.tsx", "src/*.ts"],
+  "exclude": ["node_modules"]
+}

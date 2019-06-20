@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target":"es3",
+    "module": "system",
+    "moduleResolution": "node",
+    "noUnusedLocals": true,
+    "noFallthroughCasesInSwitch": true,
+    "strict": true,
+    "sourceMap": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "jsx": "react"
+  }
+}
