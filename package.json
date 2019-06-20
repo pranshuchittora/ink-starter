@@ -1,7 +1,11 @@
 {
-  "name": "ink-test",
+  "name": "ink-starter",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pranshuchittora/ink-starter.git"
+  },
   "license": "MIT",
   "dependencies": {
     "ink": "^2.2.0",
